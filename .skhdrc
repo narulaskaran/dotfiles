@@ -1,0 +1,2 @@
+# Float / Unfloat the selected window
+cmd + alt - f : yabai -m window --toggle float
